@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VDsGGbgZFZHCkizK8RTIaK50zP/Pczhq1LZT+0eL7LOEPY0VYKBGNg28A8JmCdII/FPnF8yDXEFc/ftYE9HqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fenik\\OneDrive\\Pulpit\\AI\\AI 1\\State Machines\\State Machines\\State Machines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fenik\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\fenik\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
