@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rN2jbWT88T3dBpfgPuVgnAQ57mNJVFNaNAND/COtHF06FzPBu8u+ju60ni3PPsGDaNaSzzyhe0TLTy0pZuIeuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fenik\\OneDrive\\Pulpit\\Tymon Prog Portfolio\\AI\\AI 1\\IntroductionLab\\IntroductionLab\\IntroductionLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fenik\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\fenik\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
